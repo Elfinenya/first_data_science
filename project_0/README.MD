@@ -2,17 +2,17 @@
 
 ## Оглавление
 
-* [1. Описание проекта](https://github.com/Elfinenya/first_data_science/tree/main/project_0/REAMME.MD#Описание-проекта)
-* [2. Реализуемый кейс](https://github.com/Elfinenya/first_data_science/tree/main/project_0/REAMME.MD#Реализуемый-кейс)
-* [3. Краткая информация о данных](https://github.com/Elfinenya/first_data_science/tree/main/project_0/REAMME.MD#Краткая-информация-о-данных)
-* [4. Этапы работы над проектом](https://github.com/Elfinenya/first_data_science/tree/main/project_0/REAMME.MD#Этапы-работы-над-проектом)
-* [5. Результат](https://github.com/Elfinenya/first_data_science/tree/main/project_0/REAMME.MD#Результат)
-* [6. Вывод](https://github.com/Elfinenya/first_data_science/tree/main/project_0/REAMME.MD#Вывод)
+* [1. Описание проекта](https://github.com/Elfinenya/first_data_science/tree/main/project_0/README.MD#Описание-проекта)
+* [2. Реализуемый кейс](https://github.com/Elfinenya/first_data_science/tree/main/project_0/README.MD#Реализуемый-кейс)
+* [3. Краткая информация о данных](https://github.com/Elfinenya/first_data_science/tree/main/project_0/README.MD#Краткая-информация-о-данных)
+* [4. Этапы работы над проектом](https://github.com/Elfinenya/first_data_science/tree/main/project_0/README.MD#Этапы-работы-над-проектом)
+* [5. Результат](https://github.com/Elfinenya/first_data_science/tree/main/project_0/README.MD#Результат)
+* [6. Вывод](https://github.com/Elfinenya/first_data_science/tree/main/project_0/README.MD#Вывод)
 
 ## Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток
 
-:arrow_up:[к оглавлению](https://github.com/Elfinenya/first_data_science/tree/main/project_0/REAMME.MD#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Elfinenya/first_data_science/tree/main/project_0/README.MD#Оглавление)
 
 ### Реализуемый кейс
 Нужно написать программу, которая угадывает число за минимальное число попыток
@@ -29,4 +29,4 @@
 
 ### Краткая информация о данных
 
-:arrow_up:[к оглавлению](https://github.com/Elfinenya/first_data_science/tree/main/project_0/REAMME.MD#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Elfinenya/first_data_science/tree/main/project_0/README.MD#Оглавление)
