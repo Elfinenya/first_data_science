@@ -47,5 +47,5 @@ The implemented game project provides a solution to the computer guessing the nu
 The implemented project provided a solution to the problem and allowed to practice skills of working with the IDE and GitHub environment
 
 
-:arrow_up:[к оглавлению](https://github.com/Elfinenya/first_data_science/tree/main/project_0/README.MD#Оглавление)
+:arrow_up:[To table of contents](https://github.com/Elfinenya/first_data_science/blob/main/project_1/README.MD#Table-of-contents)
 
