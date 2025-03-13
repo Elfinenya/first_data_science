@@ -1,4 +1,4 @@
-# Project 1. The game: guess the number in less than 20 attempts 
+# Project 0_1. The game: guess the number in less than 20 attempts 
 ## Table of contents
 
 * [1. Project Description](https://github.com/Elfinenya/first_data_science/blob/main/project_1/README.MD#Project-Description)
