@@ -1,17 +1,17 @@
 # Project 0_1. The game: guess the number in less than 20 attempts 
 ## Table of contents
 
-* [1. Project Description](https://github.com/Elfinenya/first_data_science/blob/main/project_1/README.MD#Project-Description)
-* [2. Case to be implemented](https://github.com/Elfinenya/first_data_science/blob/main/project_1/README.MD#Case-to-be-implemented)
-* [3. Brief information about the data](https://github.com/Elfinenya/first_data_science/blob/main/project_1/README.MD#Brief-information-about-the-data)
-* [4. Stages of work on the project](https://github.com/Elfinenya/first_data_science/blob/main/project_1/README.MD#Stages-of-work-on-the-project)
-* [5. Result](https://github.com/Elfinenya/first_data_science/blob/main/project_1/README.MD#Result)
-* [6. Output](https://github.com/Elfinenya/first_data_science/blob/main/project_1/README.MD#Output)
+* [1. Project Description](https://github.com/Elfinenya/first_data_science/blob/main/project_0_1/README.MD#Project-Description)
+* [2. Case to be implemented](https://github.com/Elfinenya/first_data_science/blob/main/project_0_1/README.MD#Case-to-be-implemented)
+* [3. Brief information about the data](https://github.com/Elfinenya/first_data_science/blob/main/project_0_1/README.MD#Brief-information-about-the-data)
+* [4. Stages of work on the project](https://github.com/Elfinenya/first_data_science/blob/main/project_0_1/README.MD#Stages-of-work-on-the-project)
+* [5. Result](https://github.com/Elfinenya/first_data_science/blob/main/project_0_1/README.MD#Result)
+* [6. Output](https://github.com/Elfinenya/first_data_science/blob/main/project_0_1/README.MD#Output)
 
 ## Project Description
 The computer must guess and then guess the number in less than 20 tries
 
-:arrow_up:[To table of contents](https://github.com/Elfinenya/first_data_science/blob/main/project_1/README.MD#Table-of-contents)
+:arrow_up:[To table of contents](https://github.com/Elfinenya/first_data_science/blob/main/project_0_1/README.MD#Table-of-contents)
 
 ### Case to be implemented
 I need to write a program that allows the computer to guess a number by itself and then guess it in less than 20 tries
